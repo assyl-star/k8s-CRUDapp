@@ -1,0 +1,4 @@
+container:
+  image: 21766/k8sphp:latest
+
+replicaCount: 2
